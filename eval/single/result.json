@@ -1,0 +1,181 @@
+[{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. [Diagnosis-Driven Prompt] Key diagnostic findings: Sinus rhythm is present; Left bundle branch block is present.  USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": 1,
+  "model_output": "Based on the ECG provided, there are a few key findings that are worth noting:\n\n1. Sinus rhythm: The ECG shows a regular rhythm with a rate of approximately 70 beats per minute. This indicates that the heart is beating in a normal, coordinated manner, with the electrical impulses originating from the sinoatrial (SA) node in the right atrium.\n2. Left bundle branch block: The ECG shows a left bundle branch block pattern, which is characterized by a wide QRS complex and a prolonged QRS duration. This"
+},{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. [Diagnosis-Driven Prompt] Key diagnostic findings: non-specific ST segment junctional depression is present; sinus rhythm is present.  USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [
+    "non-specific ST segment junctional depression",
+    "sinus rhythm"
+  ],
+  "model_output": "Based on the ECG results provided, there are a few key findings that should be noted:\n\n1. Non-specific ST segment junctional depression: This refers to a depression (or dip) in the ST segment of the ECG, which is the part of the waveform that represents the electrical activity of the heart muscle. The depression is not specific to any particular condition, but it can be seen in a variety of heart conditions, including ischemia (reduced blood flow to the heart), infarction (heart tissue death), and certain arrhythmias."
+},
+{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+},
+{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+},
+{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. [Diagnosis-Driven Prompt] Key diagnostic findings: normal ECG is present.  USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [
+    "normal ECG"
+  ],
+  "model_output": "Based on the ECG result you provided, there are a few things to note:\n\n1. Heart rate: The heart rate is 74 bpm, which is within the normal range.\n2. Rhythm: The rhythm is regular and sinus, which means the heart is beating in a normal, coordinated manner.\n3. P wave: The P wave is normal in size and shape, indicating normal atrioventricular (AV) conduction.\n4. QRS complex: The QRS complex is normal in size and shape, indicating normal ventricular depolarization."
+},
+{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. [Diagnosis-Driven Prompt] Key diagnostic findings: inferior myocardial infarction is present; right bundle branch block is present.  USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [
+    "inferior myocardial infarction",
+    "right bundle branch block"
+  ],
+  "model_output": "Based on the ECG you provided, there are a few key findings that are worth noting:\n\n1. Inferior myocardial infarction: The ECG shows evidence of an inferior myocardial infarction, which is a type of heart attack that occurs in the lower part of the heart. This is typically seen as ST segment elevation in leads II, III, and aVF. In this case, there is clear ST segment elevation in lead III and aVF, and there is also some ST segment depression in lead II.\n2. Right bundle branch block: The"
+}]{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. [Diagnosis-Driven Prompt] Key diagnostic findings: normal ECG is present.  USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [
+    "normal ECG"
+  ],
+  "model_output": "Based on the ECG result you provided, there are a few things to note:\n\n1. Heart rate: The heart rate is 74 bpm, which is within the normal range.\n2. Rhythm: The rhythm is regular and sinus, which means the heart is beating in a normal, coordinated manner.\n3. P wave: The P wave is normal in size and shape, indicating normal atrioventricular (AV) conduction.\n4. QRS complex: The QRS complex is normal in size and shape, indicating normal ventricular depolarization."
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical activity of the heart, which can help diagnose various heart conditions. Here are some key points to know about your ECG results:\n\n1. Normal ECG results: A normal ECG result indicates that your heart is functioning properly, and there are no significant abnormalities in the electrical activity of your heart.\n2. Abnormal ECG results: Abnormal ECG results may indicate an underlying heart condition, such as arrh"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical activity of your heart over time, which can help your healthcare provider diagnose various heart conditions. Here are some key things you should know about your ECG results:\n\n1. Normal results: A normal ECG result indicates that your heart is functioning properly, and there are no significant abnormalities in your heart's electrical activity.\n2. Abnormal results: Abnormal ECG results may indicate an underlying heart condition, such"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nYou are a professional ECG diagnostic assistant.Given the following 12-lead ECG signal (already provided and preprocessed), generate a concise and direct medical report on this patient's cardiac status.Do not explain what an ECG is. Only output the diagnosis and findings based on the ECG data. ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "Medical Report:\n\nPatient: [Name]\nDate: [Date]\n\nFindings:\n\n1. Rhythm: The ECG shows a regular sinus rhythm with a heart rate of [HR] bpm.\n2. P-waves: The P-waves are normal in shape and size, indicating normal atrioventricular (AV) conduction.\n3. QRS complexes: The QRS complexes are [describe QRS complexes], suggesting [describe findings based on QRS complexes].\n4. T-waves: The"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nYou are an AI ECG assistant, and you are seeing a single 12-lead ECG. A patient ask you one question. I will give you the question and ECG report. please give the patient your feedback without any explanation. ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "Sure, I'm ready to assist. Please provide me with the question and ECG report."
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nYou are an AI ECG assistant, and you are seeing a single 12-lead ECG. A patient ask you one question. I will give you the question and ECG report. please give the patient your feedback without any explanation. ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "Sure, I'm ready to assist. Please provide me with the question and ECG report."
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nWhat should I know about my ECG results? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "An electrocardiogram (ECG) is a non-invasive test that measures the electrical activity of your heart. The test generates a graph of the electrical signals that control your heartbeat. The results of an ECG can provide important information about your heart's health and can help diagnose various heart conditions.\n\nHere are some key things to know about your ECG results:\n\n1. Heart rate: The ECG measures your heart rate, which is the number of times your heart beats per minute. A normal heart rate ranges from 60 to 100 beats"
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nCan you see my offered ecg signal? ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "Yes, I can see your ECG signal. It appears to be a time series signal with multiple peaks and valleys. The ECG signal is typically used to measure the electrical activity of the heart, and it can be used to diagnose various heart conditions."
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nCan you see my offered ecg signal?And help me diagnose. ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "Yes, I can see your ECG signal. However, as an AI language model, I am not qualified to diagnose medical conditions or provide medical advice. It is important to consult a qualified healthcare professional for any medical concerns or diagnoses."
+}{
+  "prompt": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: <ecg>\nYou are a professional medical assistant.Can you see my offered ecg signal?And help me diagnose. ASSISTANT:",
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "model_output": "As an AI language model, I am not able to directly view or analyze images or signals. However, I can provide you with some general information about ECG signals and how to interpret them.\n\nAn ECG (electrocardiogram) is a non-invasive test that measures the electrical activity of the heart. It is commonly used to diagnose and monitor heart conditions. The ECG signal is recorded from electrodes placed on the skin over the heart and limbs.\n\nThe ECG waveform consists of several different waves and intervals, including the P wave, QRS complex, and T"
+}

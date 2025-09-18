@@ -1,0 +1,23 @@
+{
+  "ecg_shape": [
+    12,
+    5000
+  ],
+  "prelabels": [
+    "sinus rhythm"
+  ],
+  "turns": [
+    {
+      "user": "what is the heart rate shown in the ECG?",
+      "assistant": "The heart rate shown in the ECG is 60 beats per minute."
+    },
+    {
+      "user": "what is the rhythm of the heart shown in the ECG?",
+      "assistant": "The rhythm of the heart shown in the ECG is sinus rhythm."
+    },
+    {
+      "user": "What should I know about my ECG results?",
+      "assistant": "ASSISTANT: Your ECG results show that your heart rate is 60 beats per minute and the rhythm of your heart is sinus rhythm. Sinus rhythm is a normal heart rhythm that originates from the sinoatrial (SA) node in the heart. This means that your heart is beating regularly and there are no signs of any abnormal heart rhythms or conduction disturbances.\n\nIt is important to note that an ECG is just one tool used to assess heart function and should be interpreted in the context of your overall health and medical history. If you have any"
+    }
+  ]
+}
